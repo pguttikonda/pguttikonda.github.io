@@ -1,6 +1,4 @@
-# Kenss Solutions
-## Header 2
-### Header 3
+### Kenss Solutions provides best in class technology and staffing services for small and medium sized businesses. 
 
 
 
